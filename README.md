@@ -3,10 +3,10 @@
 </div>
 
 
-Task done during the IGTI Data Science bootcamp. I am a student in the area.⚠️
+⚠️ Task done during the IGTI Data Science bootcamp. I am a student in the area.
 
 
-### I'm recording my learning with tools for data analysis, especially data analysis. 💾
+💾 I'm recording my learning with tools for data analysis, especially data analysis. 
 
 ### Software
 + pyhton 
