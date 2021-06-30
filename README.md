@@ -15,3 +15,5 @@
 + k-means clustering
 + descriptive statistics
 + linear regression 
+
+🖖 https://www.linkedin.com/in/cilmaralopes/ 
