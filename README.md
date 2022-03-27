@@ -1,6 +1,8 @@
 <div align="left">
-<img src="https://user-images.githubusercontent.com/75622960/123884430-9ad91c00-d921-11eb-8538-2a95e9d7b90c.png" width="180px" />
+<img src="![alura_python_numpy](https://user-images.githubusercontent.com/75622960/160289357-8a62031d-c616-4702-be4e-8d7b31b20812.PNG)" width="180px" />
 </div>
+
+![alura_python_numpy](https://user-images.githubusercontent.com/75622960/160289357-8a62031d-c616-4702-be4e-8d7b31b20812.PNG) 
 
 
 ⚠️ Task done during the IGTI Data Science bootcamp. I am a student in the area.
